@@ -1,0 +1,17 @@
+{
+  "api": {
+    "port": 8888
+  },
+  "mysql": {
+    "port": 3306,
+    "host": "127.0.0.1",
+    "db": "wwx",
+    "user": "root",
+    "password": "yinjiaolong",
+    "poolSize": 5
+  },
+  "redis": {
+    "redisType": 1,
+    "redisUrl": "redis://localhost:6379"
+  }
+}
